@@ -122,3 +122,4 @@ widgetsnbextension==4.0.10
 y-py==0.5.9
 -e git+https://github.com/SoogeunParkValcon/cv-demo-webapp.git@bfd48f65d91b13dcbe51770b272a5a6a32c2f72e#egg=yolo_webapp
 ypy-websocket==0.3.2
+gunicorn 

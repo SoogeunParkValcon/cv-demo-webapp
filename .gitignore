@@ -3,6 +3,10 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# other folders
+research/
+/research/
+
 # C extensions
 *.so
 
@@ -10,8 +14,9 @@ __pycache__/
 *.jpg
 *.png
 
-# Yolov8 models
-*.pt
+# video files
+*.mp4
+
 
 # Distribution / packaging
 .Python
